@@ -1,4 +1,4 @@
-# 🎫 CBT - Crime Bound Token
+# 🎫 CT - Crime Token
 Track Criminal Records using Non transferrable ERC721 Tokens (Inspired By: SBT- Soul Bound Token)
 
 <p align="center">
