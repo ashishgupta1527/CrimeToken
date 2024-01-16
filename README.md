@@ -6,9 +6,9 @@ Track Criminal Records using Non transferrable ERC721 Tokens (Inspired By: SBT- 
     <br />
     <a href="https://reactjs.org/"><strong>Learn more about React »</strong></a>
     <br />
-    <a href="https://github.com/dhananjaypai08/CrimeBoundToken/issues">Report Bug</a>
+    <a href="https://github.com/ashishgupta1527/CrimeToken/blob/main/README.md">Report Bug</a>
     <br />
-  <a href="https://github.com/dhananjaypai08/CrimeBoundToken">Project Link</a>
+  <a href="https://github.com/ashishgupta1527/CrimeToken/blob/main/README.md">Project Link</a>
  </p>
  
 ## ✍️ Table of Contents
@@ -64,7 +64,7 @@ git clone https://github.com/ashishgupta1527/CrimeToken.git
 2. Installing dependencies and requirements
 
 ```sh
-cd CrimeBoundToken
+cd CrimeToken
 npm install ethers
 npm install ipfs-http-client
 ```
